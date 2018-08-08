@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Affichage de la liste des fichiers
+ls -ltr
+
+
+
+
